@@ -2,7 +2,7 @@
 
 
 
-![Mesa de trabajo 1Head](D:\0000_CONTRATO_UNIMINUTO\pLANTILLAgNERALcURSOS\2x\Mesa de trabajo 1Head.png)
+# ![Mesa de trabajo 1Head](http://drive.google.com/uc?export=view&id=1p2rqX0Nck3MI8LKzYct_oEMRETRIhzTH)
 
 # **Practica Inyección SQL  -  002**
 
@@ -175,7 +175,7 @@ Esta práctica guiada proporciona una visión detallada de cómo configurar un e
 
 
 
-![Mesa de trabajo 1FOOTER](D:\0000_CONTRATO_UNIMINUTO\pLANTILLAgNERALcURSOS\2x\Mesa de trabajo 1FOOTER.png)
+![Mesa de trabajo 1FOOTER](http://drive.google.com/uc?export=view&id=1vwLVsNlcF2PEyv9fULe2cohQnVfwRWLg)
 
 
 
