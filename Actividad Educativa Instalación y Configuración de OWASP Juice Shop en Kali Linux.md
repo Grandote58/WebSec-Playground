@@ -1,3 +1,7 @@
+
+
+# **![Mesa de trabajo 1Head](D:\0000_CONTRATO_UNIMINUTO\pLANTILLAgNERALcURSOS\2x\Mesa de trabajo 1Head.png)**
+
 # **Actividad Educativa: Instalación y Configuración de OWASP Juice Shop en Kali Linux**
 
 ## Introducción
@@ -121,7 +125,7 @@ Abrimos un navegador web y navegamos a `http://localhost:3000` para validar que 
 
 
 
-
+![Mesa de trabajo 1FOOTER](D:\0000_CONTRATO_UNIMINUTO\pLANTILLAgNERALcURSOS\2x\Mesa de trabajo 1FOOTER.png)
 
 
 
