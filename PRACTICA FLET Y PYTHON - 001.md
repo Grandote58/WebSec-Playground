@@ -14,7 +14,7 @@
 3. Crear un proyecto básico en Flet
 
 ```bash
-bashCopiar código # Crear y activar un entorno virtual
+# Crear y activar un entorno virtual
 python -m venv venv
 source venv/bin/activate  # en Windows: venv\Scripts\activate
 
