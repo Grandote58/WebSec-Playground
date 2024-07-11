@@ -1,3 +1,5 @@
+# ![Mesa de trabajo 1Head](http://drive.google.com/uc?export=view&id=1p2rqX0Nck3MI8LKzYct_oEMRETRIhzTH)
+
 # **PRACTICA FLET Y PYTHON - 002**
 
 ## Crear la misma aplicación pero con los controles ubicados de forma vertical y añadiendo la validación y sanitización de entradas. Además, se mostrará un mensaje cuando algún dato ingresado sea incorrecto.
