@@ -1,3 +1,6 @@
+
+# ![Mesa de trabajo 1Head](http://drive.google.com/uc?export=view&id=1p2rqX0Nck3MI8LKzYct_oEMRETRIhzTH)
+
 # **PRACTICA FLET Y PYTHON - 003**
 
 ## Crear la misma aplicación pero con contenedores y se diferenciaran con colores con los controles ubicados de forma vertical y añadiendo la validación y sanitización de entradas. Además, se mostrará un mensaje cuando algún dato ingresado sea incorrecto, y tendrá funcionalidades de actualización y eliminación de datos utilizando checkboxes.
@@ -382,4 +385,9 @@ def main(page: ft.Page):
 
 # Ejecutar la aplicación
 ft.app(target=main)
+
+
+
+![Mesa de trabajo 1FOOTER](http://drive.google.com/uc?export=view&id=1vwLVsNlcF2PEyv9fULe2cohQnVfwRWLg)
+
 ```
