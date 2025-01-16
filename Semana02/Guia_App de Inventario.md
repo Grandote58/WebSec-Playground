@@ -1,3 +1,5 @@
+![Mesa](https://github.com/Grandote58/CloudSafeGuard/blob/main/Mesa.png)
+
 # **App de Inventario**
 
 
